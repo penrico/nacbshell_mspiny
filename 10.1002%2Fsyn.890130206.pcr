@@ -15,5 +15,22 @@
         "pubId": "10.1002/syn.890130206",
         "tags": [],
         "version": "1"
+    },
+    {
+        "annotId": "9430af64-e4cc-11e7-96b2-b88d124130c0",
+        "authors": [
+            "paolo"
+        ],
+        "comment": "",
+        "experimentProperties": [],
+        "localizer": {
+            "location": 8146,
+            "text": "Sprague-Dawley rats (200-320 g)",
+            "type": "text"
+        },
+        "parameters": [],
+        "pubId": "10.1002/syn.890130206",
+        "tags": [],
+        "version": "1"
     }
 ]
