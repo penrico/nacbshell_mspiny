@@ -1,1 +1,19 @@
-[]
+[
+    {
+        "annotId": "c1b711b4-e4cc-11e7-8472-b88d124130c0",
+        "authors": [
+            "paolo"
+        ],
+        "comment": "",
+        "experimentProperties": [],
+        "localizer": {
+            "location": 8135,
+            "text": "Adult male Sprague-Dawley rats (200-320 g)",
+            "type": "text"
+        },
+        "parameters": [],
+        "pubId": "10.1002/syn.890130206",
+        "tags": [],
+        "version": "1"
+    }
+]
