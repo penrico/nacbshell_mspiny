@@ -15,5 +15,22 @@
         "pubId": "10.1002/syn.890130206",
         "tags": [],
         "version": "1"
+    },
+    {
+        "annotId": "f4aaefac-e4cd-11e7-9cb7-b88d124130c0",
+        "authors": [
+            "paolo"
+        ],
+        "comment": "Perfusion ACSF composition",
+        "experimentProperties": [],
+        "localizer": {
+            "location": 9119,
+            "text": " 124 mM NaCl, 5 mM KCl, 1.2 mM KH2PO4, 2.4 mM CaCl2, 1.3 mM MgSO4, 26 mM NaHCO3, 10 mM glucose, and saturated with 95%:5% 02:C02",
+            "type": "text"
+        },
+        "parameters": [],
+        "pubId": "10.1002/syn.890130206",
+        "tags": [],
+        "version": "1"
     }
 ]
